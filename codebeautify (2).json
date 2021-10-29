@@ -1,0 +1,44 @@
+﻿{
+  "coord": {
+    "lon": 48.6201,
+    "lat": 62.0589
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 268.7,
+    "feels_like": 263.11,
+    "temp_min": 268.7,
+    "temp_max": 268.7,
+    "pressure": 1015,
+    "humidity": 81,
+    "sea_level": 1015,
+    "grnd_level": 1007
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.38,
+    "deg": 330,
+    "gust": 11.59
+  },
+  "clouds": {
+    "all": 28
+  },
+  "dt": 1635436524,
+  "sys": {
+    "country": "RU",
+    "sunrise": 1635393935,
+    "sunset": 1635425569
+  },
+  "timezone": 10800,
+  "id": 556146,
+  "name": "Mys",
+  "cod": 200
+}
